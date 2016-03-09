@@ -1,5 +1,3 @@
-Nuestras mascotas también pueden estar aburridas. 
+Resulta que si seguimos alimentando a nuestra mascota indefinidamente, esta se va a aburrir. Particularmente, cuando un tamagotchi come y su nivel de felicidad está por encima de 20 unidades, se aburre. 
 
-se pone contenta. 
-
-TODO
+> Agregar lo necesario para soportar este requerimiento
