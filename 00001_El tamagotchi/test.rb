@@ -1,10 +1,10 @@
 describe Tamagotchi do
   it 'entiende comer!' do 
-    expect(Tamagotchi.new.responds_to? :comer!).to be true
+    expect(Tamagotchi.new.respond_to? :comer!).to be true
   end
   
   it 'entiende energia' do 
-    expect(Tamagotchi.new.responds_to? :energia).to be true
+    expect(Tamagotchi.new.respond_to? :energia).to be true
   end
   
   it 'su energia es inicialmente 10' do
